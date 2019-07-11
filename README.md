@@ -8,10 +8,10 @@ Here is a video of Hector in action:
 
 Incomplete Parts List:
 
-Chassis       - (Robot 2WD Metal Chassis Kit)(https://www.olimex.com/Products/Robot-CNC-Parts/KITS/ROBOT-2WD-KIT/)
+Chassis       - https://www.olimex.com/Products/Robot-CNC-Parts/KITS/ROBOT-2WD-KIT/
 
-Motor Driver  - (Motor Driver Shield)(https://protosupplies.com/product/l293d-v1-motor-driver-shield/)
+Motor Driver  - https://protosupplies.com/product/l293d-v1-motor-driver-shield/
 
-Photo Modules - (Generic Photoresistor Modules)(https://www.gearbest.com/sensors/pp_485909.html)
+Photo Modules - https://www.gearbest.com/sensors/pp_485909.html
 
 
